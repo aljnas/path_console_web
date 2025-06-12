@@ -1,0 +1,10 @@
+
+{
+  "perfil": {
+    "nombre": "Luis Rodríguez",
+    "tipo": "inmigrante",
+    "edad": 35,
+    "hijos": 2,
+    "necesidades": ["vivienda", "salud", "estabilidad"]
+  }
+}
